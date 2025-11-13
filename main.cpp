@@ -1,5 +1,8 @@
 #include<iostream>
 int main(){
-    std::cout<<"Hello World";
+    int a, b;
+    std::cout<<"Addition of two number";
+    std::cin>>a>>b;
+    std::cout<<add(a,b);
     return 0;
 }
