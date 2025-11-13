@@ -1,0 +1,3 @@
+/Users/mishrak/Documents/Practice/Cpp-sprint/build/CMakeFiles/app.dir
+/Users/mishrak/Documents/Practice/Cpp-sprint/build/CMakeFiles/edit_cache.dir
+/Users/mishrak/Documents/Practice/Cpp-sprint/build/CMakeFiles/rebuild_cache.dir
